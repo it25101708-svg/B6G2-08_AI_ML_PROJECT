@@ -10,6 +10,7 @@ B6G2-08_AI_ML_PROJECT/
 │   ├── external/            # Third-party data sources
 │   └── raw/                 # Original, immutable datasets
 ├── notebooks/               # Jupyter notebooks for data analysis and preprocessing
+│   ├── B6G2-08_pipeline.ipynb   # Integrated group preprocessing pipeline
 │   ├── IT25101533_Missing_Data.ipynb
 │   ├── IT25101708_Encoding.ipynb
 │   ├── IT25103406_Outliers.ipynb
